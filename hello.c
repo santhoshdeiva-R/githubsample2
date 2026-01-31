@@ -1,8 +1,8 @@
-printf("Hello");
+#include <conio.h>
 #include <stdio.h>
 
 int main() 
-g{
+{
 	printf("Hello");
 	return 0;
 }
