@@ -4,5 +4,6 @@
 int main() 
 {
 	printf("Hello");
+	printf("Welcome to Git hub");
 	return 0;
 }
